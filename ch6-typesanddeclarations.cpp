@@ -1,3 +1,9 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+
 x = y+f(2)
 /* For this equation to actually work in c++, you must declare them. */
 
